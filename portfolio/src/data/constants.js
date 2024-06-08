@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/SuryaNesanuru",
   resume:
-    "https://drive.google.com/file/d/1txFKZD3LNIXMc329jD9c995AU8LItOXK/view?usp=drive_link",
+    "https://docs.google.com/document/d/1NuxBqV8AQ-bhHN-HrftLB-K7qkd56p5J/edit",
   linkedin: "https://www.linkedin.com/in/surya-nesanuru-3ab751229/",
   twitter: "https://twitter.com/SuryaNesanuru",
   insta: "https://www.instagram.com/ktm._vibe_________/",
@@ -147,7 +147,7 @@ export const skills = [
         image: "https://download.logo.wine/logo/Nginx/Nginx-Logo.wine.png",
       },
       {
-        name: "Grafana",
+        name: "Grafanna",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png",
       },
